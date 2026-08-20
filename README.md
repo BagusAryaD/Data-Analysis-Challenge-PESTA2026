@@ -82,13 +82,3 @@ Proyek ini membangun model klasifikasi untuk memprediksi apakah pelanggan teleko
 **Bagus Arya Dwipangga**
 
 ---
-
-## 📄 AI Disclosure
-
-Proyek ini dibantu menggunakan **opencode** (AI coding assistant) untuk:
-- Perencanaan struktur notebook dan alur analisis
-- Analisis eksplorasi data
-- Pembuatan kode preprocessing dan modeling
-- Interpretasi hasil dan penyusunan rekomendasi
-
-Semua kode telah dieksekusi ulang dan diverifikasi secara manual.
